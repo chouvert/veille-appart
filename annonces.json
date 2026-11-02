@@ -10,7 +10,7 @@
     "Résidence de 10 à 50 lots",
     "Ancien ou neuf"
   ],
-  "derniere_verif": "2026-11-02T22:04:15+01:00",
+  "derniere_verif": "2026-11-02T23:04:33+01:00",
   "frequence": "vérification toutes les heures, de 7 h à 23 h",
   "annonces": [
     {
@@ -79,7 +79,7 @@
       "photo": "",
       "lien_direct": true,
       "ajoutee_le": "2026-11-02T10:06:05+01:00",
-      "verifiee_le": "2026-11-02T10:06:05+01:00"
+      "verifiee_le": "2026-11-02T23:04:33+01:00"
     },
     {
       "id": "antibes-residence-arboree-80",
