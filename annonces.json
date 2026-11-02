@@ -10,7 +10,7 @@
     "Résidence de 10 à 50 lots",
     "Ancien ou neuf"
   ],
-  "derniere_verif": "2026-11-02T19:04:41+01:00",
+  "derniere_verif": "2026-11-02T20:01:18+01:00",
   "frequence": "vérification toutes les heures, de 7 h à 23 h",
   "annonces": [
     {
@@ -80,6 +80,30 @@
       "lien_direct": true,
       "ajoutee_le": "2026-11-02T10:06:05+01:00",
       "verifiee_le": "2026-11-02T10:06:05+01:00"
+    },
+    {
+      "id": "antibes-residence-arboree-80",
+      "commune": "Antibes",
+      "quartier": "Quartier à préciser",
+      "prix": 460000,
+      "prix_estime": false,
+      "surface": 80,
+      "exterieur": "Terrasse 15 m² + balcon",
+      "titre": "4 pièces d'angle avec terrasse, résidence arborée avec piscine",
+      "atouts": [
+        "Ascenseur",
+        "Parking inclus (type à préciser)",
+        "Nombre de lots à vérifier",
+        "Cave",
+        "3 chambres",
+        "Résidence de 1979 avec piscine"
+      ],
+      "source": "LuxuryEstate",
+      "url": "https://www.luxuryestate.com/p131812755-apartment-for-sale-antibes",
+      "photo": "",
+      "lien_direct": true,
+      "ajoutee_le": "2026-11-02T20:01:18+01:00",
+      "verifiee_le": "2026-11-02T20:01:18+01:00"
     }
   ],
   "retirees": [
