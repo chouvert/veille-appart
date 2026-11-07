@@ -10,7 +10,7 @@
     "Résidence de 10 à 50 lots",
     "Ancien ou neuf"
   ],
-  "derniere_verif": "2026-11-07T21:02:15+01:00",
+  "derniere_verif": "2026-11-07T22:03:05+01:00",
   "frequence": "vérification toutes les heures, de 7 h à 23 h",
   "annonces": [
     {
@@ -81,6 +81,30 @@
       "lien_direct": true,
       "ajoutee_le": "2026-11-02T20:01:18+01:00",
       "verifiee_le": "2026-11-06T08:10:37+01:00"
+    },
+    {
+      "id": "vallauris-golfe-juan-75",
+      "commune": "Vallauris",
+      "quartier": "Golfe-Juan",
+      "prix": 479000,
+      "prix_estime": false,
+      "surface": 75,
+      "exterieur": "Terrasse-balcon d'environ 10 m², plein sud",
+      "titre": "3 pièces traversant rénové avec terrasse à Golfe-Juan",
+      "atouts": [
+        "Ascenseur",
+        "Place de parking privative en sous-sol",
+        "Nombre de lots à vérifier",
+        "Avant-dernier étage",
+        "Rénové (immeuble de 1993)",
+        "Piscine et gardien dans la résidence"
+      ],
+      "source": "French-Property (Michaël Zingraf)",
+      "url": "https://www.french-property.com/sale-property/3772-Agwc59v6bkd0rte5",
+      "photo": "https://cdn3.french-property.com/agency_3772/Agwc59v6bkd0rte5/3772-Agwc59v6bkd0rte5-1f061f7eaecc18d76fb9.jpg?height=1000&width=1500",
+      "lien_direct": true,
+      "ajoutee_le": "2026-11-07T22:03:05+01:00",
+      "verifiee_le": "2026-11-07T22:03:05+01:00"
     }
   ],
   "retirees": [
